@@ -2,8 +2,6 @@ import re
 import sys
 from bs4 import BeautifulSoup
 import requests
-import re
-
 
 URL = "https://<your's instance>"
 SIGN_IN_URL = "https://<your's instance>/users/sign_in"
